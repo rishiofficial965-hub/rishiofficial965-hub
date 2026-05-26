@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rishi Ranjan! 👋</h1>
 <p align="center">
-  🚀 <strong>AI/ML Engineer | Full-Stack Developer | Computer Vision Enthusiast</strong>
+  🚀 <strong> Full-Stack Developer | AI/ML Engineer | Computer Vision Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -91,14 +91,14 @@ I am a Computer Science undergraduate passionate about building scalable, high-p
 ### 📂 Featured Projects
 
 #### 🤖 ChatbotAI – AI-Powered Conversational Platform
-*LangChain, React.js, Node.js, RAG, Pinecone, MongoDB* | [GitHub Link](https://github.com/rishiofficial965-hub)
+*LangChain, React.js, Node.js, RAG, Pinecone, MongoDB* | [GitHub Link](https://github.com/rishiofficial965-hub/CHATBOT-STYLE-APPLICATION.git)
 - Developed a full-stack AI chatbot orchestrating multiple models (**Gemini 2.5 Flash**, **Mistral**) via **LangChain**.
 - Implemented real-time bidirectional messaging via **Socket.IO** and persistent conversation histories in **MongoDB**.
 - Integrated **Retrieval-Augmented Generation (RAG)** leveraging **Pinecone vector database** and **Tavily API** for real-time web search with source citations.
 - Structured a secure auth flow with **JWT** and OTP-based verification via **Brevo**.
 
 #### 🛒 Snitch – Full-Stack E-Commerce Platform
-*React.js, Node.js, MongoDB, Redux Toolkit, Razorpay, ImageKit* | [GitHub Link](https://github.com/rishiofficial965-hub)
+*React.js, Node.js, MongoDB, Redux Toolkit, Razorpay, ImageKit* | [GitHub Link](https://github.com/rishiofficial965-hub/ecommerce)
 - Engineered a premium responsive e-commerce web app using **Framer Motion** for micro-animations and smooth transitions.
 - Designed a highly performant search engine featuring a **300ms debounced live-search dropdown** and MongoDB-regex filtering.
 - Implemented a complete checkout system integrated with **Razorpay payments**, automated inventory stock handling, and Brevo transactional emails.
@@ -109,19 +109,6 @@ I am a Computer Science undergraduate passionate about building scalable, high-p
 
 - **Winner** – Internal Hackathon: Built an indigenous track monitoring system for real-time condition tracking and fault detection.
 - **UI/UX Specialization** – Coursera professional certification.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishiofficial965-hub&show_icons=true&theme=radical&hide_border=true" alt="Rishi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiofficial965-hub&layout=compact&theme=radical&hide_border=true" alt="Rishi's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiofficial965-hub&theme=radical&hide_border=true" alt="Rishi's GitHub Streak" />
-</p>
 
 ---
 
