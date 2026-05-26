@@ -126,5 +126,5 @@ I am a Computer Science undergraduate passionate about building scalable, high-p
 ---
 
 <p align="center">
-  ✨ Created with ❤️ by Rishi Ranjan. Feel free to connect with me for collaborations!
+  ✨ Created with by Rishi Ranjan. Feel free to connect with me for collaborations!
 </p>
