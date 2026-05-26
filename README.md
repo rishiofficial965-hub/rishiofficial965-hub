@@ -21,7 +21,7 @@
 
 I am a Computer Science undergraduate passionate about building scalable, high-performance web applications and AI-powered systems. With strong foundations in Data Structures and Algorithms, I specialize in full-stack development (MERN stack) and the practical application of machine learning, NLP, and LLM-driven architectures.
 
-- 🎓 Currently pursuing B.Tech in Computer Science and Engineering at **CV Raman Global University** (CGPA: 7.81).
+- 🎓 Currently pursuing B.Tech in Computer Science and Engineering at **CV Raman Global University** .
 - 🚀 Deeply interested in **Advanced LLMs, Multi-Agent Systems, RAG pipelines, and MLOps**.
 - 💡 Winner of the **Internal Hackathon** for building an indigenous track monitoring system.
 - ⚡ Fun fact: I love turning complex AI theories into reliable, production-ready software systems.
